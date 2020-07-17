@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/city-tours/static/css/main.b89da1b6.chunk.css",
+    "main.js": "/city-tours/static/js/main.8b436550.chunk.js",
+    "main.js.map": "/city-tours/static/js/main.8b436550.chunk.js.map",
+    "runtime-main.js": "/city-tours/static/js/runtime-main.332042f5.js",
+    "runtime-main.js.map": "/city-tours/static/js/runtime-main.332042f5.js.map",
+    "static/js/2.1807f28e.chunk.js": "/city-tours/static/js/2.1807f28e.chunk.js",
+    "static/js/2.1807f28e.chunk.js.map": "/city-tours/static/js/2.1807f28e.chunk.js.map",
+    "index.html": "/city-tours/index.html",
+    "precache-manifest.5b50a15fa7c1b476eaf4620df2811b98.js": "/city-tours/precache-manifest.5b50a15fa7c1b476eaf4620df2811b98.js",
+    "service-worker.js": "/city-tours/service-worker.js",
+    "static/css/main.b89da1b6.chunk.css.map": "/city-tours/static/css/main.b89da1b6.chunk.css.map",
+    "static/js/2.1807f28e.chunk.js.LICENSE.txt": "/city-tours/static/js/2.1807f28e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.332042f5.js",
+    "static/js/2.1807f28e.chunk.js",
+    "static/css/main.b89da1b6.chunk.css",
+    "static/js/main.8b436550.chunk.js"
+  ]
+}
